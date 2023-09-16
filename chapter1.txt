@@ -1,1 +1,1 @@
-ECHO is on.
+This CH1
